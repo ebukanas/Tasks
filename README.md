@@ -1,2 +1,7 @@
 # uni-project
-Project for Algorithms and Data Structures
+
+Course title: Algorithms and Data Structures
+
+Fullname, group: E. Bukanas, PI18E
+
+Software used: Xcode
