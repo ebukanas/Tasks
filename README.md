@@ -1,4 +1,4 @@
-# uni-project
+# Algorithms and Data Structures tasks
 
 Course title: Algorithms and Data Structures
 
